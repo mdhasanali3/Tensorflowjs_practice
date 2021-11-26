@@ -1,0 +1,189 @@
+[
+  {
+    "Name": "chevrolet chevelle malibu",
+    "Miles_per_Gallon": 18,
+    "Cylinders": 8,
+    "Displacement": 307,
+    "Horsepower": 130,
+    "Weight_in_lbs": 3504,
+    "Acceleration": 12,
+    "Year": "1970-01-01",
+    "Origin": "USA"
+  },
+ {
+    "Name": "dodge rampage",
+    "Miles_per_Gallon": 32,
+    "Cylinders": 4,
+    "Displacement": 135,
+    "Horsepower": 84,
+    "Weight_in_lbs": 2295,
+    "Acceleration": 11.6,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+ {
+    "Name": "pontiac j2000 se hatchback",
+    "Miles_per_Gallon": 31,
+    "Cylinders": 4,
+    "Displacement": 112,
+    "Horsepower": 85,
+    "Weight_in_lbs": 2575,
+    "Acceleration": 16.2,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "dodge aries se",
+    "Miles_per_Gallon": 29,
+    "Cylinders": 4,
+    "Displacement": 135,
+    "Horsepower": 84,
+    "Weight_in_lbs": 2525,
+    "Acceleration": 16,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "pontiac phoenix",
+    "Miles_per_Gallon": 27,
+    "Cylinders": 4,
+    "Displacement": 151,
+    "Horsepower": 90,
+    "Weight_in_lbs": 2735,
+    "Acceleration": 18,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "ford fairmont futura",
+    "Miles_per_Gallon": 24,
+    "Cylinders": 4,
+    "Displacement": 140,
+    "Horsepower": 92,
+    "Weight_in_lbs": 2865,
+    "Acceleration": 16.4,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "amc concord dl",
+    "Miles_per_Gallon": 23,
+    "Cylinders": 4,
+    "Displacement": 151,
+    "Horsepower": null,
+    "Weight_in_lbs": 3035,
+    "Acceleration": 20.5,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "volkswagen rabbit l",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 105,
+    "Horsepower": 74,
+    "Weight_in_lbs": 1980,
+    "Acceleration": 15.3,
+    "Year": "1982-01-01",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "mazda glc custom l",
+    "Miles_per_Gallon": 37,
+    "Cylinders": 4,
+    "Displacement": 91,
+    "Horsepower": 68,
+    "Weight_in_lbs": 2025,
+    "Acceleration": 18.2,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "mazda glc custom",
+    "Miles_per_Gallon": 31,
+    "Cylinders": 4,
+    "Displacement": 91,
+    "Horsepower": 68,
+    "Weight_in_lbs": 1970,
+    "Acceleration": 17.6,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "plymouth horizon miser",
+    "Miles_per_Gallon": 38,
+    "Cylinders": 4,
+    "Displacement": 105,
+    "Horsepower": 63,
+    "Weight_in_lbs": 2125,
+    "Acceleration": 14.7,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "mercury lynx l",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 98,
+    "Horsepower": 70,
+    "Weight_in_lbs": 2125,
+    "Acceleration": 17.3,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "nissan stanza xe",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 120,
+    "Horsepower": 88,
+    "Weight_in_lbs": 2160,
+    "Acceleration": 14.5,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "honda Accelerationord",
+    "Miles_per_Gallon": 36,
+    "Cylinders": 4,
+    "Displacement": 107,
+    "Horsepower": 75,
+    "Weight_in_lbs": 2205,
+    "Acceleration": 14.5,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "toyota corolla",
+    "Miles_per_Gallon": 34,
+    "Cylinders": 4,
+    "Displacement": 108,
+    "Horsepower": 70,
+    "Weight_in_lbs": 2245,
+    "Acceleration": 16.9,
+    "Year": "1982-01-01",
+    "Origin": "Japan"
+  },
+  {
+    "Name": "ford ranger",
+    "Miles_per_Gallon": 28,
+    "Cylinders": 4,
+    "Displacement": 120,
+    "Horsepower": 79,
+    "Weight_in_lbs": 2625,
+    "Acceleration": 18.6,
+    "Year": "1982-01-01",
+    "Origin": "USA"
+  },
+  {
+    "Name": "buick skylark 320",
+    "Miles_per_Gallon": 15,
+    "Cylinders": 8,
+    "Displacement": 350,
+    "Horsepower": 165,
+    "Weight_in_lbs": 3693,
+    "Acceleration": 11.5,
+    "Year": "1970-01-01",
+    "Origin": "USA"
+  }
+]
